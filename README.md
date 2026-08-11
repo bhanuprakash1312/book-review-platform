@@ -5,7 +5,8 @@ A full-stack book review platform with a modern React frontend and a Node.js/Exp
 ---
 
 ## Live Demo
-Deployed Link: https://book-review-platform-main.vercel.app/
+Deployed Link: https://book-review-platform-red.vercel.app/
+
 
 ## 📚 Features
 
